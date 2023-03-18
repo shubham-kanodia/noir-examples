@@ -1,3 +1,3 @@
-fn main(x : Field, y : Field, prod : Field) {
+fn main(x : Field, y : Field, prod : pub Field) {
     constrain x * y == prod;
 }
