@@ -8,7 +8,7 @@ This repo contains these sample [Noir](https://github.com/noir-lang) circuits to
 
 ## Setup
 
-1. Setup Nargo, the package manager for Noir. You can find the installation instructions [here](https://noir-lang.org/getting_started/nargo/installation.html)
+Setup Nargo, the package manager for Noir. You can find the installation instructions [here](https://noir-lang.org/getting_started/nargo/installation.html)
 
 ## Noir Commands
 
