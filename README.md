@@ -2,8 +2,9 @@
 
 This repo contains these sample [Noir](https://github.com/noir-lang) circuits to get you started:
 
-1. [Verify element at an index](index_of/src/main.nr)
-2. [Sudoku](sudoku/src/main.nr)
+1. [Factorisation](factorisation/src/main.nr)
+2. [Verify element at an index](index_of/src/main.nr)
+3. [Sudoku](sudoku/src/main.nr)
 
 ## Setup
 
